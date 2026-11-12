@@ -1,0 +1,6 @@
+table_name,actual_rows,expected_rows
+patients,974,974
+payers,10,10
+organizations,1,1
+encounters,27891,27891
+procedures,47701,47701

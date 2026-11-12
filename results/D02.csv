@@ -1,0 +1,13 @@
+check_name,issue_count
+encounter_without_patient,0
+encounter_without_payer,0
+encounter_without_organization,0
+procedure_without_encounter,0
+procedure_patient_mismatch,0
+encounter_stop_before_start,0
+procedure_stop_before_start,0
+negative_encounter_amount,0
+negative_procedure_cost,0
+payer_coverage_above_claim,0
+encounter_before_birth,0
+duplicate_procedure_rows,0

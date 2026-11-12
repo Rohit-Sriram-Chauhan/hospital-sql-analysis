@@ -1,0 +1,23 @@
+encounterclass,procedure_code,procedure_description,procedure_records,frequency_rank
+ambulatory,385763009,Hospice care (regime/therapy),2882,1
+ambulatory,265764009,Renal dialysis (procedure),2746,2
+ambulatory,225158009,Auscultation of the fetal heart,1065,3
+ambulatory,274804006,Evaluation of uterine fundal height,1065,3
+emergency,180325003,Electrical cardioversion,159,1
+emergency,274474001,Bone immobilization,118,2
+emergency,66348005,Childbirth,115,3
+inpatient,385763009,Hospice care (regime/therapy),859,1
+inpatient,703423002,Combined chemotherapy and radiation therapy (procedure),390,2
+inpatient,371908008,Oxygen administration by mask (procedure),198,3
+inpatient,431182000,Placing subject in prone position (procedure),198,3
+outpatient,710824005,Assessment of health and social care needs (procedure),2404,1
+outpatient,171207006,Depression screening (procedure),1808,2
+outpatient,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),1808,2
+outpatient,428211000124100,Assessment of substance use (procedure),1434,3
+urgentcare,180325003,Electrical cardioversion,792,1
+urgentcare,18286008,Catheter ablation of tissue of heart,213,2
+urgentcare,417511005,Referral to home health care service (procedure),33,3
+wellness,710824005,Assessment of health and social care needs (procedure),1674,1
+wellness,171207006,Depression screening (procedure),1208,2
+wellness,454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure),1208,2
+wellness,428211000124100,Assessment of substance use (procedure),985,3

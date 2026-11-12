@@ -1,0 +1,7 @@
+observation,row_count
+procedure_outside_encounter_times,28849
+encounter_with_zero_claim,89
+encounter_without_reason_code,19541
+patient_without_zip,142
+encounter_starting_after_death_date,53
+encounter_procedure_cost_above_claim,5086

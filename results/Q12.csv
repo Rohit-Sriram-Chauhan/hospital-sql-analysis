@@ -1,0 +1,7 @@
+encounterclass,encounters,encounters_with_procedures,procedure_records,avg_procedures_per_encounter,total_claim_cost_usd
+ambulatory,12537,6851,17822,1.42,36283440.84
+outpatient,6300,3317,14958,2.37,14094967.12
+wellness,1931,1693,9295,4.81,8227431.73
+inpatient,1135,1045,3137,2.76,8809134.34
+emergency,2322,725,1442,0.62,10750051.53
+urgentcare,3666,1039,1047,0.29,23349349.96

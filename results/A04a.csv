@@ -1,0 +1,2 @@
+merged_inpatient_stays,source_inpatient_encounters,inpatient_patients,eligible_discharges,discharges_with_return,patients_with_return,observed_return_pct,avg_merged_stay_hours
+934,1135,153,886,350,22,39.50,39.89

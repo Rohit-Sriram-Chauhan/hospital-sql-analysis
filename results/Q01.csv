@@ -1,0 +1,2 @@
+patients_seen,encounters,procedure_records,first_encounter_date,last_encounter_date,total_claim_cost_usd,avg_claim_per_encounter_usd,payer_coverage_usd,payer_coverage_pct
+974,27891,47701,2011-01-02,2022-02-05,101514375.52,3639.68,31097506.99,30.63
